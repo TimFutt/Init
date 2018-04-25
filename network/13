@@ -1,0 +1,8 @@
+Server:         10.51.1.42
+Address:        10.51.1.42#53
+
+253.1.51.10.in-addr.arpa        name = dhcp.42.fr
+
+# nslookup 10.51.1.253
+# It's a DHCP server which is a client/server protocol that automatically provides an IP
+# DHCP = Dynamic Host Configuration Protocol

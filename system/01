@@ -1,0 +1,3 @@
+/etc/debian_version content the debien version
+
+# cat /etc/debian_version

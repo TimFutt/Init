@@ -1,0 +1,1 @@
+ifconfig en1 | grep "ec:" | cut -d " " -f 2 | cat -e
