@@ -1,4 +1,4 @@
 sudo du -sh /var/*
 
-# -h = human readable format
-# -s (optional) = total disk usage size of a directory
+# -h = human readable
+# -s (optional) = size of a directory
